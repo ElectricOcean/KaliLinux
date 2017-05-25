@@ -1,4 +1,4 @@
-An extremely shitty virus that you actually have to try to download
+An extremely shitty virus that you actually have to try to download.
 
 # Installation
 
